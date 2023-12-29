@@ -1,1 +1,2 @@
-# petit-jtag-kicad
+# Petit JTAG
+Petit JTAG is a USB Blaster adapter which reduces the 2x5 100mil connector to a 2x3 50mil connector when space is constrained on the target PCB. It also has a type B USB input to provide power to the target board from either VBUS 5V or 3.3V from an onboard voltage regulator. This is selectable via pin header.
