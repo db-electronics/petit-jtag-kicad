@@ -27,5 +27,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 
+# Local settings
+*.kicad_prl
+
 # local output folders
 *-backups/
