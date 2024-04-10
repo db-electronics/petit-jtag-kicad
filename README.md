@@ -8,9 +8,9 @@ If you're going to use my free projects please consider sponsoring my work. Than
 - [Pateron](https://patreon.com/dbelectronics)
 
 # Changelog
-- v1.1
+- [v1.1](https://github.com/db-electronics/petit-jtag-kicad/releases/tag/v1.1)
   - change 2x3 50mil to a 1x6 2mm staggered footprint for more consistent connection to target board
-- v1.0
+- [v1.0](https://github.com/db-electronics/petit-jtag-kicad/releases/tag/v1.0)
   - initial release
 
 # Copyright and Disclaimer
